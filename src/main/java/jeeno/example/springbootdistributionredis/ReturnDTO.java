@@ -9,7 +9,7 @@ import lombok.ToString;
 
 /**
  * encapsulated class of return data
- * @author 杜家浩
+ * @author Jeeno
  * @version 0.0.1
  * @date 2019/9/2 20:41
  */
